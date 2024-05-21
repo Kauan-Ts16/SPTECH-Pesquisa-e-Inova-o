@@ -1,5 +1,9 @@
 <h1 align="center">SPTECH-Pesquisa e Inovação</h1>
 
+<p align="center">
+  <img src="sptech.png" width="500">
+</p>
+
 ### SOBRE
 
 - Repositório que abriga o desenvolvimento de atividades da matéria de Pesquisa e Inovação (PI).

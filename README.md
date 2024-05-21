@@ -4,6 +4,7 @@
   <img src="sptech.png" width="500">
 </p>
 
+#
 ### SOBRE
 
 - Repositório que abriga o desenvolvimento de atividades da matéria de Pesquisa e Inovação (PI).
